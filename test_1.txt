@@ -1,2 +1,4 @@
 hello_1
 hello_2
+
+this is new lines (using gui)
