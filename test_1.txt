@@ -7,5 +7,4 @@ and here
 
 111
 
-this is new branch line
-and this is another line for the branch line!
+master line
