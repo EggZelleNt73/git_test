@@ -1,5 +1,6 @@
 hello_1
 ----------------------------
+
 fadsfasf as
 fas
 df
@@ -7,6 +8,11 @@ asdf
 asd
 f
 asdf
+=======
+
+
+\\\\\\\\\\\\\\\\\\\\\\
+>>>>>>> main
 hello_2
 
 oy no, i changed this file
