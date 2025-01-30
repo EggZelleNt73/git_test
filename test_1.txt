@@ -7,4 +7,11 @@ and here
 
 111
 
+<<<<<<< HEAD
 master line
+=======
+this is new branch line
+and this is another line for the branch line!
+
+no, brach is behined
+>>>>>>> feature
