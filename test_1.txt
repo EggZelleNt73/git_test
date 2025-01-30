@@ -1,13 +1,2 @@
 hello_1
 hello_2
-
-oy no, i changed this file
-and here
-
-
-111
-
-this is new branch line
-and this is another line for the branch line!
-
-no, brach is behined
